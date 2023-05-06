@@ -116,7 +116,7 @@ function Projeto() {
   
       const projectUpdated = projeto
   
-      projectUpdated.services = servicesUpdated
+      projectUpdated.servicies = servicesUpdated
       projectUpdated.cost = parseFloat(projectUpdated.cost) - parseFloat(cost)
   
       fetch(`http://localhost:5000/projects/${projectUpdated.id}`, {
