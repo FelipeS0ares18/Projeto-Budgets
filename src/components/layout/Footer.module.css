@@ -1,0 +1,35 @@
+.footer {
+    background-color: #194E99;
+    color: white;
+    padding: 3em;
+    text-align: center;
+}
+
+.lista_redes {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.lista_redes li {
+    margin:  0 1em;
+}
+
+.lista_redes li:hover {
+    color: black;
+    
+}
+
+.lista_redes svg {
+    font-size: 1.5em;
+    cursor: pointer;
+    
+}
+
+.copy {
+    margin-top: 20px;
+}
+
+.copy span {
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.novoprojeto_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+    color: #194E99;
+    font-weight: bold;
+}
+
+.novoprojeto_container h1{
+    margin-bottom: 0.7em;
+}
+
+.newproject_container p{
+    color: #194E99;
+    
+}
+

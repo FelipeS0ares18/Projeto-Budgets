@@ -1,0 +1,58 @@
+.detalhes_projeto{
+    padding: 2em;
+    width: 100%;
+}
+
+.detalhes_projeto2 h1,
+.detalhes_projeto2 h2,
+.detalhes_projeto2 p{
+   margin-bottom: 0.5em;
+   
+}
+
+.detalhes_projeto2 h1 {
+    background-color: #194E99;
+    color: #fff;
+    padding: .4em;
+    font-size: 25px;
+    max-height: 45px;
+    
+  }
+
+  .detalhes_projeto2 span{
+    font-weight: bold;
+  }
+
+  .detalhes_projeto2,
+  .detalhes_projeto2_servico_container{
+    border-bottom: 1px solid black;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+ .botao{
+    background-color: #194E99;
+        color: #fff;
+        padding: 0.5em 1em;
+        text-decoration: none;
+        transition: 0.5s;
+        font-weight: bold;
+        border-radius: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        max-height: 40px;
+        border: none;
+ }
+    
+    .botao:hover{ 
+        background-color: white;
+        color: #194E99;
+    }
+   
+    .informacao{
+        width: 100%;
+    }

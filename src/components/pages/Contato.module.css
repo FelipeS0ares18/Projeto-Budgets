@@ -1,0 +1,35 @@
+.novoprojeto_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+    color: #194E99;
+    font-weight: bold;
+    margin-bottom: 5em;
+}
+
+.novoprojeto_container h1{
+    margin-bottom: 0.7em;
+}
+
+.newproject_container p{
+    color: #194E99;
+    
+}
+
+
+.Botao_enviar {
+    background-color: #194E99;
+    color: #FFF;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border: none;
+    width: 100px;
+}
+
+.Botao_enviar:hover{
+    background-color: white;
+    color: #194E99;
+}
+

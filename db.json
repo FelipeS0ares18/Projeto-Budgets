@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "name": "Felipe Soares de Miranda",
+      "budget": "212",
+      "category": {
+        "id": "1",
+        "name": "construção"
+      },
+      "cost": 0,
+      "servicies": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "construção"
+    },
+    {
+      "id": 2,
+      "name": "reforma"
+    },
+    {
+      "id": 3,
+      "name": "consultoria"
+    },
+    {
+      "id": 4,
+      "name": "planejamento"
+    }
+  ]
+}
